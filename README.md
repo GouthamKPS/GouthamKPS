@@ -27,7 +27,7 @@ I'm a Computer Science undergraduate at **IIIT Kottayam** with a strong passion 
 - **Sub-technical Lead** – Google Developer Students Club, IIIT Kottayam (2024 – 2025)  
   Organized workshops on Git, Cloud Computing, and other technical topics.  
 
-- **WordPress Blogger** – [The Restless Guy](https://theretlessguy.com) (2021 – 2025)  
+- **WordPress Blogger** – [The Restless Guy](https://therestlessguy.com) (2021 – 2025)  
   Wrote blogs on technology, marketing, and personal projects. Managed SEO and site performance.  
 
 - **Freelance Technical Writer** – Upwork (2020 – 2022)  
